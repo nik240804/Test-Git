@@ -4,6 +4,7 @@ int main() {
     double num1, num2;
     char operation;
 
+    int ttt=1;
     std::cout << "Enter the first number: ";
     std::cin >> num1;
 
